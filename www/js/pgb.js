@@ -21,12 +21,10 @@ function deviceInfo() {
 	
 }
 
-function dataInfo() {
+function deviceInfoa() {
 
-	info =  'Hi, I am your smartphone :-)' + '\n' +
-			'=====' + '\n' +
-			'Mam na imie Mateusz ' + '\n' +; 
+	infoa = 'Mam na imie Mateusz '; 
 
-	navigator.notification.dane(info);
+	navigator.notification.alert(infoa);
 	
 }
