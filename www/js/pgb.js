@@ -27,6 +27,6 @@ function dataInfo() {
 			'=====' + '\n' +
 			'Mam na imie Mateusz ' + '\n' + 
 
-	navigator.notification.Dane(info);
+	navigator.notification.dane(info);
 	
 }
