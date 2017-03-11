@@ -25,7 +25,7 @@ function dataInfo() {
 
 	info =  'Hi, I am your smartphone :-)' + '\n' +
 			'=====' + '\n' +
-			'Mam na imie Mateusz ' + '\n' + 
+			'Mam na imie Mateusz ' + '\n' +; 
 
 	navigator.notification.dane(info);
 	
